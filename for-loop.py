@@ -1,3 +1,5 @@
+# For loop takes action on definite number of items.
+
 # name = 'malhar'
 # for i in name:
 #     print(i, end=". ")
